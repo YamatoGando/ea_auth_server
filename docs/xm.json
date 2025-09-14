@@ -1,7 +1,5 @@
 {
-  "token": "af7e273a05daa19df42754e13ba90353a983bcf7c0099e5bd0e53dc136d8761b",
-  "broker": "XMTrading",
-  "accounts": [
+  "XMTrading": [
     "75286119",
     "72309887",
     "75338588"
